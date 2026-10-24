@@ -15,4 +15,6 @@ print(hello)
         
     }
 
+let int = 12
+
 }
