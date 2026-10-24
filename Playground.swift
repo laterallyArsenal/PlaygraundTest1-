@@ -11,4 +11,8 @@ print(hello)
         print(i)
     }
 
+    func named(){
+        
+    }
+
 }
