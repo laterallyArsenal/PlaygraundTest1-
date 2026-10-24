@@ -5,4 +5,6 @@ import Playgrounds
 
 let hello = "Artem"
 
+print(hello)
+
 }
